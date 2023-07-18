@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle.Examples", "Triang
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle.Rendering", "Triangle.Rendering\Triangle.Rendering.csproj", "{20D64FA8-EC38-4507-9D99-96F855ED62C0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle.Viewer", "Triangle.Viewer\Triangle.Viewer.csproj", "{3737FDF5-ADEA-4371-BF96-1C30B9901610}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle.Rendering.GDI", "Triangle.Rendering.GDI\Triangle.Rendering.GDI.csproj", "{D306588F-4F3D-4027-87AB-16D85AF0FA62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,22 @@ Global
 		{20D64FA8-EC38-4507-9D99-96F855ED62C0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20D64FA8-EC38-4507-9D99-96F855ED62C0}.Release|x64.ActiveCfg = Release|x64
 		{20D64FA8-EC38-4507-9D99-96F855ED62C0}.Release|x64.Build.0 = Release|x64
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Debug|x64.ActiveCfg = Debug|x64
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Debug|x64.Build.0 = Debug|x64
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Release|x64.ActiveCfg = Release|x64
+		{3737FDF5-ADEA-4371-BF96-1C30B9901610}.Release|x64.Build.0 = Release|x64
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Debug|x64.ActiveCfg = Debug|x64
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Debug|x64.Build.0 = Debug|x64
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Release|x64.ActiveCfg = Release|x64
+		{D306588F-4F3D-4027-87AB-16D85AF0FA62}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
